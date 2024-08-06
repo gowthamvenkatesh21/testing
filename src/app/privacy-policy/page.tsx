@@ -282,140 +282,137 @@ const PrivacyPolicy = () => {
 
         </div>
         <div>
-          •	To Protect Abuse Victims. Notwithstanding any other provision of this Privacy P o l i c y or our Terms and Conditions of Service, we reserve the right, but have no obligation, to disclose any information that you submit to the Services, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that we are permitted to make such a disclosure.
+          •	<a style={{ textDecoration: "underline" }}>To Protect Abuse Victims.</a> Notwithstanding any other provision of this Privacy P o l i c y or our Terms and Conditions of Service, we reserve the right, but have no obligation, to disclose any information that you submit to the Services, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that we are permitted to make such a disclosure.
 
         </div>
         <div>
 
+          •<a style={{ textDecoration: "underline" }}>To other Locales.</a> We process all information, including your personal information, via our servers and networks located in the United States and Germany.
+          Additionally, some of our service providers may be located in other jurisdictions. By
+          using our services and expressly assenting to this privacy policy, you have consented to the transfer of your personal information solely to provide you the Services for which you have registered or to which you have subscribed. We take all reasonable steps to ensure that all overseas recipients will not hold, use, or disclose your personal information inconsistent with applicable law.
         </div>
 
-        •	To other Locales. We process all information, including your personal information, via our servers and networks located in the United States and Germany.
-        Additionally, some of our service providers may be located in other jurisdictions. By
-        using our services and expressly assenting to this privacy policy, you have consented to the transfer of your personal information solely to provide you the Services for which you have registered or to which you have subscribed. We take all reasonable steps to ensure that all overseas recipients will not hold, use, or disclose your personal information inconsistent with applicable law.
 
-        6. Third-Party Advertising
-        We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of KJLEMON. These companies may employ cookies or pixels to measure advertising effectiveness. Any information that these third parties collect via cookies and pixels is anonymous.
+        <strong> 6. Third-Party Advertising</strong>
+        <p>We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of KJLEMON. These companies may employ cookies or pixels to measure advertising effectiveness. Any information that these third parties collect via cookies and pixels is anonymous.  </p>
+        <p>We may also share your personal information (such as your IP address, device identifier, or hashed email address) with third-party advertising companies to allow these companies to deliver relevant advertising to you. </p>
+        <p>We will only share your information with third parties in the ways defined in this Privacy Policy. </p>
 
-        We may also share your personal information (such as your IP address, device identifier, or hashed email address) with third-party advertising companies to allow these companies to deliver relevant advertising to you.
-
-
-        We will only share your information with third parties in the ways defined in this Privacy Policy.
-
-        7. Age Restrictions
+        <strong>7. Age Restrictions</strong>
         We only accept registrations to our Services from users who are 18 years or older (or the age of majority in applicable jurisdictions). If you believe that we may have collected any such personal information through our Services, please notify us as specified below and we will endeavor to delete that information from our systems by applicable law.
 
-        8. Custom Audience
+        <strong>8. Custom Audience</strong>
         We may also use advertising services provided by third-party platforms (such as social networking and other websites). For example, we may provide a hashed version of your email address or other information to help us find audiences that are likely to be interested in our Services.
-        9. Security
+        <strong> 9. Security</strong>
         We store information in a combination of electronic storage facilities, paper-based files, and other records. While we cannot guarantee your personal information is completely secure at all times, we have administrative, organizational, technical, and physical security measures in place to help protect against the loss, misuse, and alteration of the information collected and processed. These measures include the use of firewalls, digital certificates, Security Socket Layer (SSL), and encryption technology during credit card transactions and administrative access to site data, as well as other proprietary security measures that are applied to all repositories and transfers of user information.
 
-        10. “Do Not Track” Signals
+        <strong>10. “Do Not Track” Signals</strong>
         We do not process or respond to web browsers “do not track” signals or other similar transmissions that indicate a request to disable online tracking of users who use or visit our websites. You may, however, disable certain tracking as discussed above (e.g., by disabling cookies). Please consult the “Help” section of your internet browser for more information.
 
-        11. Links to or Access from Other Sites
+        <strong>11. Links to or Access from Other Sites</strong>
         You may be able to access your account or the content of your account from third-party websites, such as social networking sites (e.g., Facebook), by way of various applications. These services will authenticate your identity and provide you with the option to share certain personal information with us such as your name and email address to pre-populate our registration form. The privacy policies and practices of such sites in connection with information you disclose on such sites may differ from the practices of KJLEMON as outlined in this Privacy Policy. We are not responsible for the privacy policies or practices or the content of any other websites that may provide access to, or be linked to, or from, our Services, including that of any social networking sites. Please be aware that, should you choose to use the Facebook or Apple login feature for your KJLEMON account, you should not permit other people to use your Facebook or Apple accounts or give other persons your login information for those websites. (See also Terms & Conditions, Section 2(e) (“Exclusive Use”).)
 
-        12. Choice/Opt-Out
+        <strong> 12. Choice/Opt-Out</strong>
         You may use the following options for removing your information from our e-mail database if you wish to opt out of receiving promotional emails.
-        1.	Click on the "unsubscribe" link at the bottom of the e-mail; subscriptions@kjlemons.com or report@kjlemons.com
+        <p> 1.	Click on the "unsubscribe" link at the bottom of the e-mail; <a style={{ textDecoration: "underline" }}>subscriptions@kjlemons.com</a> or report@kjlemons.com</p>
 
-        2.	Send mail to the following postal address letting us know which promotional e-mails you wish to opt out of:                                                                                           KJLEMON LLC.
+        <p>2.	Send mail to the following postal address letting us know which promotional e-mails you wish to opt out of:</p>                                                                                           KJLEMON LLC.
         26830 SUGARITE CANYON Dr
         MORENO VALLEY, CA 92555
 
 
-        3.	For the KJLEMON Service, select our Help link from your account home page and search our FAQ's to find the answer you are looking for, or send us an e-mail and our Customer Care agents will be happy to assist you; or
+        3.	For the KJLEMON Service, select our <a style={{ color: "blue" }}>Help link</a> from your account home page and search our <a style={{ color: "blue" }}>FAQ's </a>to find the answer you are looking for, or <a style={{ color: "blue" }}>send us an e-mail</a> and our Customer Care agents will be happy to assist you; or
 
         4.	For any Services that allow you to control which e-mails you receive, go to the Notifications page, and uncheck the undesired promotions.
 
-        13. Right to Access, Delete, Correct/Update Your Personal Information
+        <strong>13. Right to Access, Delete, Correct/Update Your Personal Information</strong>
         KJLEMON provides users the following options to access, delete, correct/update, or delete information previously submitted to us.
 
-        KJLEMON requires that some personal information updates (such as date of birth changes) be processed by our customer care group for verification purposes and to protect other members. In order to make such personal information updates, please contact Customer Care at  subscriptions@kjlemons.com for further assistance.
+        KJLEMON requires that some personal information updates (such as date of birth changes) be processed by our customer care group for verification purposes and to protect other members. In order to make such personal information updates, please contact Customer Care at  <a style={{ textDecoration: "underline" }}>subscriptions@kjlemons.com</a> for further assistance.
 
-        Data Access Request
+        <strong>Data Access Request</strong>
 
-        If you would like to submit a request to access your personal information in accordance with applicable law, you can do so by: (i) clicking on this link, signing in to your account on the linked webpage, and following the instructions to request a copy of your personal information, or (ii) filling out the online Customer Care form available at this link. Please specify in your request the details you would like to know, including any specific pieces of personal information you would like to access.
+        <p>If you would like to submit a request to access your personal information in accordance with applicable law, you can do so by: (i) clicking on this <a style={{ color: "blue", textDecoration: "underline" }}>link</a>, signing in to your account on the linked webpage, and following the instructions to request a copy of your personal information, or (ii) filling out the online Customer Care form available at this <a style={{ color: "blue", textDecoration: "underline" }}>link.</a> Please specify in your request the details you would like to know, including any specific pieces of personal information you would like to access.</p>
 
-        Please note that your right to know can be exercised without justification and free of charge. However, we may request a fee, notably when requests are unfounded, excessive, or have a repetitive character. We are not required to provide access to personal information more than twice in 12 months.
+        <p>Please note that your right to know can be exercised without justification and free of charge. However, we may request a fee, notably when requests are unfounded, excessive, or have a repetitive character. We are not required to provide access to personal information more than twice in 12 months.</p>
 
-        Data Deletion Request
+        <strong>Data Deletion Request</strong>
 
-        If you are a Basic member (as defined in our Terms and Conditions) and have no unused virtual goods purchases reflected in your account, you can log into your account on our website, select Data & Settings, Profile Visibility and click “here” or click directly on this link to delete your profile and the data contained in your profile. Please note that this deletion on your own is only possible on our website and not in our apps. If you cannot log in on our Website, you need to submit a data deletion request using the link below.
+        <p> If you are a <strong>Basic member</strong> (as defined in our <a style={{ color: "blue", textDecoration: "underline" }}>Terms and Conditions</a>) and have no unused virtual goods purchases reflected in your account, you can log into your account on our website, select Data & Settings, Profile Visibility and click “here” or click directly on this <a style={{ color: "blue", textDecoration: "underline" }}>link </a>to delete your profile and the data contained in your profile. Please note that this deletion on your own is only possible on our <a style={{ textDecoration: "underline" }}>website</a> and not in our apps. If you cannot log in on our Website, you need to submit a data deletion request using the link below.</p>
 
-        If you are a Premium member (as defined in our Terms and Conditions) or a Basic member who has unused virtual goods purchases in your account, please submit a data deletion request using the link below.
+        <p>If you are a <strong>Premium member</strong> (as defined in our <a style={{ color: "blue", textDecoration: "underline" }}>Terms and Conditions</a>) or a Basic member who has unused virtual goods purchases in your account, please submit a data deletion request using the link below.</p>
 
-        To submit a data deletion request, you can fill out the online form available at this link.
+        <p>To submit a data deletion request, you can fill out the online form available at this <a style={{ color: "blue", textDecoration: "underline" }}>link </a></p>
 
-        Data Correction Request
+        <strong>Data Correction Request</strong>
 
-        All members may update or correct certain personal information directly in their account (e.g., email address, settings). Other personal information updates and corrections (e.g., d a t e of birth) must be processed by our Customer Care team for verification purposes. In accordance with applicable law, we may not be able to update personal information if we are unsuccessful in verifying your identity or the accuracy of such information. To request a correction/update of any personal information that cannot be self-updated, please contact our Customer Care team at this link.
+        All members may update or correct certain personal information directly in their account (e.g., email address, settings). Other personal information updates and corrections (e.g., d a t e of birth) must be processed by our Customer Care team for verification purposes. In accordance with applicable law, we may not be able to update personal information if we are unsuccessful in verifying your identity or the accuracy of such information. To request a correction/update of any personal information that cannot be self-updated, please contact our Customer Care team at this <a style={{ color: "blue", textDecoration: "underline" }}>link </a>
 
-        Verification Process
+        <strong>Verification Process</strong>
 
-        To protect your privacy, we must verify your identity to process your request for access to specific data, and to correct or to delete data. To do that and if you are a Basic or Premium member, please log in and send us your request through one of the contact links above. If you maintain your KJLEMON account with a unique KJLEMON email/password combination (rather than Facebook or Apple login), you may be asked to re-input your login credentials as an additional verification step. If you maintain your KJLEMON account through Facebook or Apple login, then you may be asked to verify your identity by providing certain information, including but not necessarily limited to your profile ID or email address associated with your account, and your service password (that is not your login password), date of birth, or zip/postal code associated with your account.
+        <p>To protect your privacy, we must verify your identity to process your request for access to specific data, and to correct or to delete data. To do that and if you are a <strong>Basic or Premium member</strong>, please log in and send us your request through one of the contact links above. If you maintain your KJLEMON account with a unique KJLEMON email/password combination (rather than Facebook or Apple login), you may be asked to re-input your login credentials as an additional verification step. If you maintain your KJLEMON account through Facebook or Apple login, then you may be asked to verify your identity by providing certain information, including but not necessarily limited to your profile ID or email address associated with your account, and your service password (that is not your login password), date of birth, or zip/postal code associated with your account.</p>
 
-        If you request your data through the customer care form, we will request certain account information to verify your identity which may include the following: the email address associated with your profile, your profile ID, and your service password (that is not your login password), your date of birth, and/or your zip/postal code. Your profile ID and service password will be assigned to you when you register for our Service. You can access these at any time in your online profile on our website in the section entitled “My Data & Settings” {'>'} “Manage Profile”. If you cannot provide us with such information, we will ask you to provide other account information to verify your identity.
+        <p> If you request your data through the customer care form, we will request certain account information to verify your identity which may include the following: the email address associated with your profile, your profile ID, and your service password (that is not your login password), your date of birth, and/or your zip/postal code. Your profile ID and service password will be assigned to you when you register for our Service. You can access these at any time in your online profile on our website in the section entitled<span style={{ background: "yellow" }}>“My Data & Settings” {'>'} “Manage Profile”.</span> If you cannot provide us with such information, we will ask you to provide other account information to verify your identity.</p>
 
-        We will make good faith efforts to provide you with access to, correct, or delete your data when you request it, but there may be circumstances in which we may not provide access to, correct, or delete data as allowed by law. For example, we are not required to correct or delete personal information needed to provide a service you’ve asked us to provide, to detect fraudulent or illegal activity, for bookkeeping or tax purposes (e.g., transaction data), if your identity could not be verified, or data that is required for legal purposes. Also, we are not required to provide access to information that contains legal privileges, if your identity cannot be verified, or where the information would compromise others’ privacy or other legitimate rights, like intellectual property rights. If we determine that your request for access, deletion, or correction should be denied or restricted for any reason, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries.
+        <p>We will make good faith efforts to provide you with access to, correct, or delete your data when you request it, but there may be circumstances in which we may not provide access to, correct, or delete data as allowed by law. For example, we are not required to correct or delete personal information needed to provide a service you’ve asked us to provide, to detect fraudulent or illegal activity, for bookkeeping or tax purposes (e.g., transaction data), if your identity could not be verified, or data that is required for legal purposes. Also, we are not required to provide access to information that contains legal privileges, if your identity cannot be verified, or where the information would compromise others’ privacy or other legitimate rights, like intellectual property rights. If we determine that your request for access, deletion, or correction should be denied or restricted for any reason, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries.</p>
 
-        Authorized Agent
+        <strong>Authorized Agent</strong>
 
-        If you wish to designate an authorized agent to request on your behalf, please let us know when you make your request. You can designate an authorized agent to request on your behalf if: (i) the authorized agent is a natural person or a registered business entity, and (ii) you sign a written declaration that you authorize the authorized agent to act on your behalf.
+        <p>If you wish to designate an authorized agent to request on your behalf, please let us know when you make your request. You can designate an authorized agent to request on your behalf if: (i) the authorized agent is a natural person or a registered business entity, and (ii) you sign a written declaration that you authorize the authorized agent to act on your behalf.</p>
 
-        If you use an authorized agent to submit a request to exercise your right to know or your right to request deletion, please take the following steps:
-        -	Mail your written declaration authorizing the authorized agent to act on your behalf, certified by a California notary public, to this address: KJLEMON LLC : Data Request , at  26830, SUGARITE CANYON Dr, MORENO VALLEY, CA 92555  and,
+        <p>If you use an authorized agent to submit a request to exercise your right to know or your right to request deletion, please take the following steps:</p>
+        <p>-	Mail your written declaration authorizing the authorized agent to act on your behalf, certified by a California notary public, to this address: KJLEMON LLC : Data Request , at  26830, SUGARITE CANYON Dr, MORENO VALLEY, CA 92555  and,</p>
 
-        -	Provide any information we request as described above and/or in our response to verify your identity.
+        <p>-	Provide any information we request as described above and/or in our response to verify your identity.</p>
 
-        If you provide an authorized agent with power of attorney, we will respond to any request from such authorized agent without the steps above.
-
-
-        Additional Information
-
-        Any access, deletion, or correction requests that can be processed by us will be done within 45 days from the date we receive your request unless we notify you that an extension is required. In the case of an extended completion period, we will process your request within 90 days from the date of your original request. If we are unable to satisfactorily verify your identity, we will not be able to process your request.
-
-        You may appeal any refusal by KJLEMON to act on a request under this section by responding to KJLEMON’s email which includes the refusal language.
+        <p>If you provide an authorized agent with power of attorney, we will respond to any request from such authorized agent without the steps above.</p>
 
 
-        We will not discriminate against you for exercising your rights and choices. Some of the functionality and features of our Services, however, may change or no longer be available to you.
-        14. Retention and Storage of Your Personal Information
-        We retain your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable legal obligations and based on the criteria set out in this Privacy Policy. Except for information required for accounting or record-keeping purposes, we will generally delete your personal information automatically as follows:
+        <strong>Additional Information</strong>
 
-        •	For Basic Memberships (as defined in the Agreement) we will automatically delete your personal information after 2 years of inactivity.
-        •	For Basic Memberships with unused Match Unlock purchases, we will retain your personal information for 2 years after the Basic Membership becomes inactive (i.e., after your last log-in), or at the latest 4 years after the date of your last Match Unlock purchase, whichever is earlier.
-        •	Premium Membership data will continue to be stored for the duration of the membership unless you request deletion of your profile if there is no statutory storage obligation that applies to that information. If your data is subject to a mandatory storage period, we will ensure that this information is isolated and stored until the expiration of the mandatory retention period. Once your Premium Membership is over, your Premium Membership will be converted into a Basic Membership. In this case, the description above relating to the retention period of Basic member data will apply.
+        <p>Any access, deletion, or correction requests that can be processed by us will be done within 45 days from the date we receive your request unless we notify you that an extension is required. In the case of an extended completion period, we will process your request within 90 days from the date of your original request. If we are unable to satisfactorily verify your identity, we will not be able to process your request.</p>
 
-        Your personal information may be processed and stored outside of the jurisdiction or country in which you reside by us, an affiliate, or an unaffiliated service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances, foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
-
-        For retention of specific categories of personal information, please review our Supplemental Privacy Policy.
+        <p>You may appeal any refusal by KJLEMON to act on a request under this section by responding to KJLEMON’s email which includes the refusal language.</p>
 
 
-        15. Supplemental Privacy Policy.
-        Section 15 of this Privacy Policy applies only to California, Virginia, and Colorado residents.
+        <p>We will not discriminate against you for exercising your rights and choices. Some of the functionality and features of our Services, however, may change or no longer be available to you.</p>
+        <strong>14. Retention and Storage of Your Personal Information</strong>
+        <p>We retain your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable legal obligations and based on the criteria set out in this Privacy Policy. Except for information required for accounting or record-keeping purposes, we will generally delete your personal information automatically as follows:</p>
 
-        You can find an exhaustive list here of the categories of personal information KJLEMON has collected, used, and/or disclosed, the business or commercial purposes for which such information was collected, the categories of third parties with which we share your personal information, and our retention periods for each category of personal information collected
+        <p>•	For Basic Memberships (as defined in the <a style={{ color: "blue", textDecoration: "underline" }}>Agreement</a>) we will automatically delete your personal information after 2 years of inactivity.</p>
+        <p> •	For Basic Memberships with unused Match Unlock purchases, we will retain your personal information for 2 years after the Basic Membership becomes inactive (i.e., after your last log-in), or at the latest 4 years after the date of your last Match Unlock purchase, whichever is earlier.</p>
+        <p> •	Premium Membership data will continue to be stored for the duration of the membership unless you request deletion of your profile if there is no statutory storage obligation that applies to that information. If your data is subject to a mandatory storage period, we will ensure that this information is isolated and stored until the expiration of the mandatory retention period. Once your Premium Membership is over, your Premium Membership will be converted into a Basic Membership. In this case, the description above relating to the retention period of Basic member data will apply.</p>
 
-        16. Dispute Resolution
-        If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at the address or email address listed above.
+        <p>Your personal information may be processed and stored outside of the jurisdiction or country in which you reside by us, an affiliate, or an unaffiliated service provider for the purposes set out in this Privacy Policy and, under the laws of these other jurisdictions, in certain circumstances, foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.</p>
+
+        <p>For retention of specific categories of personal information, please review our Supplemental Privacy Policy.</p>
 
 
-        17. Contact Us
+        <strong>15. Supplemental Privacy Policy.</strong>
+        <p>Section 15 of this Privacy Policy applies only to California, Virginia, and Colorado residents.</p>
 
-        Contact for More Information or Questions.
+        <p>You can find <a style={{ color: "blue", textDecoration: "underline" }}>an exhaustive list here </a>of the categories of personal information KJLEMON has collected, used, and/or disclosed, the business or commercial purposes for which such information was collected, the categories of third parties with which we share your personal information, and our retention periods for each category of personal information collected</p>
 
-        If you have any questions about this section or about exercising your rights described above, you can contact us by mailing us at:
-        KJLEMON LLC
-        26830 SUGARITE CANYON Dr
+        <strong>16. Dispute Resolution</strong>
+        <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact us at the address or email address listed above.</p>
+
+
+        <strong> 17. Contact Us</strong>
+
+        <strong>Contact for More Information or Questions.</strong>
+
+        <p> If you have any questions about this section or about exercising your rights described above, you can contact us by mailing us at:</p>
+        KJLEMON LLC <br />
+        26830 SUGARITE CANYON Dr <br />
         MORENO VALLEY, CA 92555
 
 
-        Or you can reach us by email at: privacy@kjlemons.com
+        <p>Or you can reach us by email at: <a style={{ color: "blue", textDecoration: "underline" }}>privacy@kjlemons.com</a></p>
 
 
-        18. Effective Date
+        <strong>18. Effective Date</strong>
 
-        Copyright © 2023 KJLEMON, LLC. All Rights Reserved. KJLEMON, and other marks, colors, and images are registered and common law trademarks of KJLEMON, Inc. Other trademarks and brands are the property of their respective owners.
+        <p>Copyright © 2023 KJLEMON, LLC. All Rights Reserved. KJLEMON, and other marks, colors, and images are registered and common law trademarks of KJLEMON, Inc. Other trademarks and brands are the property of their respective owners.</p>
 
 
 
