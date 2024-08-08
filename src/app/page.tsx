@@ -52,7 +52,7 @@ const Home = () => {
         className="bg-contain h-full  "
       >
         <div ref={Home} className="h-full  w-[100%] text-[#FFF]  ">
-          <ul className="lg:flex pt-7 gap-5 px-5 text-2xl font-[Ultra] md:mx-14 justify-between text-center items-center  max-lg:text-lg max-lg:flex-wrap ">
+          <ul className="lg:flex pt-7 gap-1 text-2xl font-[Ultra] md:mx-14 justify-between text-center items-center  max-lg:text-lg max-lg:flex-wrap ">
             <li className=" max-lg:flex max-lg:justify-between max-lg:w-full ">
               <img
                 src="/images/lemon.png"
@@ -291,8 +291,8 @@ const Home = () => {
                   </div>
                   <div className="mt-1 text-sm leading-5 text-center text-neutral-400 w-[175px]">
                     Once you find a match, start a conversation through our
-                    secure messaging platform. Send texts to get to know
-                    your match better.
+                    secure messaging platform. Send texts to get to know your
+                    match better.
                   </div>
                 </div>
               </div>
@@ -639,7 +639,9 @@ const Home = () => {
               </div>
             </AccordionSummary>
             <AccordionDetails className="pl-20">
-              kjLemon enhances security with robust two-factor authentication, leveraging both email and SMS OTPs to ensure secure and reliable user verification.
+              kjLemon enhances security with robust two-factor authentication,
+              leveraging both email and SMS OTPs to ensure secure and reliable
+              user verification.
             </AccordionDetails>
           </Accordion>
           <Accordion
@@ -710,10 +712,10 @@ const Home = () => {
             </AccordionSummary>
             <AccordionDetails className="pl-20">
               KJLemon stands out by prioritizing authenticity, simplicity, and
-              meaningful connections. Features like location-based matching, and age filtering help users find genuine
-              connections. Additionally, our user-friendly interface and robust
-              security measures make the dating experience both enjoyable and
-              safe.
+              meaningful connections. Features like location-based matching, and
+              age filtering help users find genuine connections. Additionally,
+              our user-friendly interface and robust security measures make the
+              dating experience both enjoyable and safe.
             </AccordionDetails>
           </Accordion>
           <Accordion
@@ -765,6 +767,23 @@ const Home = () => {
           <div className="flex md:pl-28 md:pt-20 md:pb-5 flex-col max-lg:p-5 ">
             <div className="w-full text-4xl font-[Ultra] text-white max-md:max-w-full max-md:text-4xl">
               Contact <span className="text-pink-400">Us</span>.
+              <div className="flex gap-2 justify-start max-md:flex-wrap">
+                <img
+                  loading="lazy"
+                  src="/images/fb.png"
+                  className="shrink-0 aspect-square w-[50px]"
+                />
+                <img
+                  loading="lazy"
+                  src="/images/insta.png"
+                  className="shrink-0 aspect-square w-[50px]"
+                />
+                <img
+                  loading="lazy"
+                  src="/images/x.png"
+                  className="shrink-0 aspect-square w-[50px]"
+                />
+              </div>
             </div>
             {/* <div className="mt-12 w-full max-md:mt-10 max-md:max-w-full">
               <div className="flex gap-5 max-md:flex-col max-md:gap-0 ">
@@ -814,7 +833,7 @@ const Home = () => {
           {/* second */}
           <div className="relative max-lg:hidden">
             <img
-              className="max-w-[45vw] py-5  mt-20 px-10 max-lg:mx-auto "
+              className="max-w-[35vw] py-5  mt-20 px-10 max-lg:mx-auto "
               src="/images/phones.png"
               alt=""
             />
@@ -861,7 +880,7 @@ const Home = () => {
                     Contact
                   </div>
                 </div>
-                <div className="flex gap-6 justify-between px-5 max-md:flex-wrap">
+                {/* <div className="flex gap-6 justify-between px-5 max-md:flex-wrap">
                   <img
                     loading="lazy"
                     src="/images/fb.png"
@@ -877,7 +896,7 @@ const Home = () => {
                     src="/images/x.png"
                     className="shrink-0 aspect-square w-[50px]"
                   />
-                </div>
+                </div> */}
               </div>
             </div>
             <div className="shrink-0 mt-5 h-px  border-solid bg-white bg-opacity-50 border-white border-opacity-50 max-md:max-w-full" />
@@ -886,9 +905,15 @@ const Home = () => {
                 Copyright © 2024 KJ Lemon Dating App. All Rights Reserved.
               </div>
               <div className="flex gap-5 self-start text-white">
-                <a href='/privacy-policy' className="flex-auto">Privacy Policy</a>
-                <a href='/terms-of-service' className="flex-auto">Terms of Service</a>
-              <a href='/disclaimer' className="flex-auto">Disclaimer</a>
+                <a href="/privacy-policy" className="flex-auto">
+                  Privacy Policy
+                </a>
+                <a href="/terms-of-service" className="flex-auto">
+                  Terms of Service
+                </a>
+                <a href="/disclaimer" className="flex-auto">
+                  Disclaimer
+                </a>
               </div>
             </div>
           </div>
