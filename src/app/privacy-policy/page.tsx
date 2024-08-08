@@ -612,7 +612,7 @@ const PrivacyPolicy = () => {
           our e-mail database if you wish to opt out of receiving promotional
           emails.
         </p>
-        <p>
+        <p className="mt-5">
           {" "}
           1. Click on the "unsubscribe" link at the bottom of the e-mail;{" "}
           <a style={{ textDecoration: "underline" }}>
@@ -620,22 +620,29 @@ const PrivacyPolicy = () => {
           </a>{" "}
           or report@kjlemons.com
         </p>
-        <p>
+        <p className="mt-5">
           2. Send mail to the following postal address letting us know which
           promotional e-mails you wish to opt out of:
         </p>{" "}
-        <p>
-          KJLEMON LLC. 26830 SUGARITE CANYON Dr MORENO VALLEY, CA 92555 3. For
-          the KJLEMON Service, select our{" "}
+        <p className="mt-5">
+          KJLEMON LLC.
+          <br /> 26830 SUGARITE CANYON Dr
+          <br /> MORENO VALLEY, CA 92555
+        </p>
+        <p className="mt-5">
+          3. For the KJLEMON Service, select our{" "}
           <a style={{ color: "blue" }}>Help link</a> from your account home page
           and search our <a style={{ color: "blue" }}>FAQ's </a>to find the
           answer you are looking for, or{" "}
           <a style={{ color: "blue" }} href="mailto:privacy@kjlemons.com">
             send us an e-mail
           </a>{" "}
-          and our Customer Care agents will be happy to assist you; or 4. For
-          any Services that allow you to control which e-mails you receive, go
-          to the Notifications page, and uncheck the undesired promotions.
+          and our Customer Care agents will be happy to assist you; or
+        </p>
+        <p className="mt-5">
+          4. For any Services that allow you to control which e-mails you
+          receive, go to the Notifications page, and uncheck the undesired
+          promotions.
         </p>
         <div className="mt-5 font-semibold text-2xl">
           13. Right to Access, Delete, Correct/Update Your Personal Information
